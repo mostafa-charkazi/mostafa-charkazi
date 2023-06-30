@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
+
+# Hi, I'm Mostafa! 👋
+--
+<p><em> Electrical Engineer Student at <a href="https://en.sbu.ac.ir/">Shahid Beheshti University</a> </em></p>
+
 
 <a href="https://www.linkedin.com/in/mostafa-charkazi/">
   <img align="right" alt="Mostafa Charkazi | LinkedIn" width="35px" src="https://raw.githubusercontent.com/mostafa-charkazi/mostafa-charkazi/d0454b570724baa7cf2d2bd3b2b5f7306a619698/images/linkedin.svg" />
