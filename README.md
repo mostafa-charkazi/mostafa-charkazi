@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Mostafa! 👋
---
 <p><em> Electrical Engineer Student at <a href="https://en.sbu.ac.ir/">Shahid Beheshti University</a> </em></p>
 
 
