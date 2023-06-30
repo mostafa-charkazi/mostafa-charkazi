@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mostafa-charkazi/mostafa-charkazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+<a href="https://www.linkedin.com/in/mostafa-charkazi/">
+  <img align="right" alt="Mostafa Charkazi | LinkedIn" width="21px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
+</a>
