@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Mostafa! 👋
 <p><em> Electrical Engineering Student at <a href="https://en.sbu.ac.ir/">Shahid Beheshti University</a> </em></p>
-- ⚡ Fun fact: There are over 700 different programming languages.
+<p><em> - ⚡ Fun fact: There are over 700 different programming languages. </em></p>
 
 
 <a href="https://www.linkedin.com/in/mostafa-charkazi/">
