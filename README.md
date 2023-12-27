@@ -10,11 +10,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 # Hi, I'm Mostafa! 👋
-<p><em> Electrical Engineer Student at <a href="https://en.sbu.ac.ir/">Shahid Beheshti University</a> </em></p>
+<p><em> Electrical Engineering Student at <a href="https://en.sbu.ac.ir/">Shahid Beheshti University</a> </em></p>
+- ⚡ Fun fact: There are over 700 different programming languages.
 
 
 <a href="https://www.linkedin.com/in/mostafa-charkazi/">
