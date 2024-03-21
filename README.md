@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p><b><em> Hi, I'm Mostafa! 👋 </em></b></p>
-<p><em> - ⚡ Electrical Engineering Student at <a href="https://en.sbu.ac.ir/">Shahid Beheshti University</a> </em></p>
+<p><em> - ⚡ Electrical Engineering Student at <a href="https://en.sbu.ac.ir/" target="_blank">Shahid Beheshti University</a> </em></p>
 <p><em>- 📫 How to reach me: </em></p>
 <a href="https://www.linkedin.com/in/mostafa-charkazi/">
   <img align="left" alt="Mostafa Charkazi | LinkedIn" width="35px" src="https://raw.githubusercontent.com/mostafa-charkazi/mostafa-charkazi/d0454b570724baa7cf2d2bd3b2b5f7306a619698/images/linkedin.svg" />
